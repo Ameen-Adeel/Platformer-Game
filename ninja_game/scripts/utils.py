@@ -21,7 +21,6 @@ class Animation:
         self.loop = loop
         self.img_duration = img_dur
         self.done = False
-        self.done = False
         self.frame = 0
     
     def copy(self):
